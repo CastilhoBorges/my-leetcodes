@@ -1,0 +1,17 @@
+{
+  "name": "my-leetcodes",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "Augusto Castilho",
+  "license": "ISC",
+  "description": "My leet code resolutions",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
