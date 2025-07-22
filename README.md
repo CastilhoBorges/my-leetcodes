@@ -29,7 +29,7 @@ To run the solutions locally, please follow the steps below.
 
 2.  Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd my-leetcodes
     ```
 
 3.  Install all necessary dependencies:
@@ -51,7 +51,7 @@ The file organization is designed to be scalable and easy to navigate. Each Leet
 │   │   ├── solution-{number}.ts       (Solution code in TypeScript)
 │   └── ... (other challenges will follow the same pattern)
 ├── package.json
-└── README.md (This file)
+└── README.md
 ```
 
 To run a specific solution file:
